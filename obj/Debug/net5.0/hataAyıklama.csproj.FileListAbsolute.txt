@@ -1,0 +1,15 @@
+/Users/hakkiayman/Desktop/Alistıirmalar/hataAyıklama/bin/Debug/net5.0/hataAyıklama.deps.json
+/Users/hakkiayman/Desktop/Alistıirmalar/hataAyıklama/bin/Debug/net5.0/hataAyıklama.runtimeconfig.json
+/Users/hakkiayman/Desktop/Alistıirmalar/hataAyıklama/bin/Debug/net5.0/hataAyıklama.runtimeconfig.dev.json
+/Users/hakkiayman/Desktop/Alistıirmalar/hataAyıklama/bin/Debug/net5.0/hataAyıklama.dll
+/Users/hakkiayman/Desktop/Alistıirmalar/hataAyıklama/bin/Debug/net5.0/ref/hataAyıklama.dll
+/Users/hakkiayman/Desktop/Alistıirmalar/hataAyıklama/bin/Debug/net5.0/hataAyıklama.pdb
+/Users/hakkiayman/Desktop/Alistıirmalar/hataAyıklama/obj/Debug/net5.0/hataAyıklama.csproj.AssemblyReference.cache
+/Users/hakkiayman/Desktop/Alistıirmalar/hataAyıklama/obj/Debug/net5.0/hataAyıklama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakkiayman/Desktop/Alistıirmalar/hataAyıklama/obj/Debug/net5.0/hataAyıklama.AssemblyInfoInputs.cache
+/Users/hakkiayman/Desktop/Alistıirmalar/hataAyıklama/obj/Debug/net5.0/hataAyıklama.AssemblyInfo.cs
+/Users/hakkiayman/Desktop/Alistıirmalar/hataAyıklama/obj/Debug/net5.0/hataAyıklama.csproj.CoreCompileInputs.cache
+/Users/hakkiayman/Desktop/Alistıirmalar/hataAyıklama/obj/Debug/net5.0/hataAyıklama.dll
+/Users/hakkiayman/Desktop/Alistıirmalar/hataAyıklama/obj/Debug/net5.0/ref/hataAyıklama.dll
+/Users/hakkiayman/Desktop/Alistıirmalar/hataAyıklama/obj/Debug/net5.0/hataAyıklama.pdb
+/Users/hakkiayman/Desktop/Alistıirmalar/hataAyıklama/obj/Debug/net5.0/hataAyıklama.genruntimeconfig.cache
